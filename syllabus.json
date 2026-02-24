@@ -1,0 +1,345 @@
+{
+    "Week 1": {
+        "title": "Quality Control (Audits + Accessibility)",
+        "goal": "Learn Audits & Fix 3 Screens ",
+        "status": "pending",
+        "lessons": [
+            {
+                "day": "Mon",
+                "topic": "Design Audits",
+                "mission": "\ud83d\udd75\ufe0f MISSION: The Bug Hunter. Open 3 apps you use daily. Find 5 interface 'violations' based on the reading. Score 1 point for each!",
+                "status": "completed"
+            },
+            {
+                "day": "Tue",
+                "topic": "Fixing Flaws",
+                "mission": "\ud83d\udee0\ufe0f MISSION: The Patcher. Take your 5 bugs from yesterday. Sketch 5 solutions on paper in 30 minutes. Time yourself!",
+                "status": "pending"
+            },
+            {
+                "day": "Wed",
+                "topic": "Accessibility Basics",
+                "mission": "\ud83c\udfa8 MISSION: Contrast Cop. Download the 'Stark' plugin. Find 3 websites with bad text contrast and 'fix' them using new hex codes.",
+                "status": "pending"
+            },
+            {
+                "day": "Thu",
+                "topic": "Advanced Accessibility",
+                "mission": "\ud83d\udde3\ufe0f MISSION: The Screen Reader Challenge. Turn on your phone's VoiceOver/TalkBack. Try to navigate a website with your eyes closed for 5 mins.",
+                "status": "pending"
+            },
+            {
+                "day": "Fri",
+                "topic": "Inclusive Design",
+                "mission": "\ud83c\udfaf MISSION: Fat Finger Test. Measure buttons on your favorite app. If any are under 44px redesign the button to be thumb-friendly.",
+                "status": "pending"
+            },
+            {
+                "day": "Sat",
+                "topic": "The Checklist",
+                "mission": "\u2705 MISSION: The Master List. Create your own 'Flight Manual' checklist. You must include at least 10 items from this week's learnings.",
+                "status": "pending"
+            },
+            {
+                "day": "Sun",
+                "topic": "Consolidation",
+                "mission": "\ud83d\udcf8 MISSION: Show Off. Post a 'Before & After' image of your Tuesday redesign on Twitter/LinkedIn.",
+                "status": "pending"
+            }
+        ]
+    },
+    "Week 2": {
+        "title": "Systems & Storytelling",
+        "goal": "Build Design System & Case Study [cite: 24]",
+        "status": "pending",
+        "lessons": [
+            {
+                "day": "Mon",
+                "topic": "Atomic Design",
+                "mission": "\u269b\ufe0f MISSION: Atom Smasher. Draw a website interface on paper. Circle the 'atoms' (buttons icons) in red and 'molecules' (search bars) in blue.",
+                "status": "pending"
+            },
+            {
+                "day": "Tue",
+                "topic": "Components & Layout",
+                "mission": "\ud83e\udde9 MISSION: Flexbox Froggy. Recreate a complex card component in Figma using Auto-Layout. It must resize perfectly without breaking!",
+                "status": "pending"
+            },
+            {
+                "day": "Wed",
+                "topic": "System Documentation",
+                "mission": "\ud83d\udcda MISSION: The Librarian. Rename 20 messy layers in your Figma file to follow a strict naming convention (e.g. Button/Primary/Active).",
+                "status": "pending"
+            },
+            {
+                "day": "Thu",
+                "topic": "Case Study Structure",
+                "mission": "\ud83d\udcdd MISSION: The Storyboard. Write the 'Hero's Journey' for a user using your app. Problem (Monster) -> Solution (Weapon) -> Victory.",
+                "status": "pending"
+            },
+            {
+                "day": "Fri",
+                "topic": "Visualizing Process",
+                "mission": "\ud83d\uddfa\ufe0f MISSION: Map Maker. Create a User Flow for buying a coffee. If there are fewer than 5 steps you missed something. Add more detail!",
+                "status": "pending"
+            },
+            {
+                "day": "Sat",
+                "topic": "Final Polish",
+                "mission": "\ud83c\udfa4 MISSION: The Pitch. Record yourself explaining your project in exactly 60 seconds. If you stutter start over!",
+                "status": "pending"
+            },
+            {
+                "day": "Sun",
+                "topic": "Consolidation",
+                "mission": "\ud83d\ude80 MISSION: Launch Day. Publish one small UI component to the Figma Community (or just prepare the file as if you were).",
+                "status": "pending"
+            }
+        ]
+    },
+    "Week 3": {
+        "title": "Assets & Copy",
+        "goal": "Universal UI Kit & UX Writing [cite: 47]",
+        "status": "pending",
+        "lessons": [
+            {
+                "day": "Mon",
+                "topic": "Pro UI Kits",
+                "mission": "\ud83c\udfd7\ufe0f MISSION: The Architect. Download a free UI Kit. Try to break it by resizing elements. Note what breaks and why.",
+                "status": "pending"
+            },
+            {
+                "day": "Tue",
+                "topic": "Developer Handoff",
+                "mission": "\ud83e\udd1d MISSION: Dev Buddy. Pretend you are a developer. Export all your icons as SVGs and your photos as JPGs. Are they named correctly?",
+                "status": "pending"
+            },
+            {
+                "day": "Wed",
+                "topic": "Kit Application",
+                "mission": "\ud83c\udfce\ufe0f MISSION: Speed Run. Design a 'Music Player' screen using ONLY your UI kit components. You have 30 minutes. Go!",
+                "status": "pending"
+            },
+            {
+                "day": "Thu",
+                "topic": "Microcopy Basics",
+                "mission": "\u270d\ufe0f MISSION: Hemingway Challenge. Find a confusing error message online. Rewrite it to be clear, friendly, and under 10 words.",
+                "status": "pending"
+            },
+            {
+                "day": "Fri",
+                "topic": "Frictionless Writing",
+                "mission": "\ud83d\udeab MISSION: Oops! Design a 404 page that isn't boring. Make the user smile even though they are lost.",
+                "status": "pending"
+            },
+            {
+                "day": "Sat",
+                "topic": "Inclusive Copy",
+                "mission": "\ud83c\udf0d MISSION: The Translator. Take your 5 most common UI labels (Submit, Login, etc.) and check if they work if translated to German.",
+                "status": "pending"
+            },
+            {
+                "day": "Sun",
+                "topic": "Consolidation",
+                "mission": "\ud83c\udf81 MISSION: The Package. Create a stunning 'Cover Image' for your UI Kit that would make someone want to download it immediately.",
+                "status": "pending"
+            }
+        ]
+    },
+    "Week 4": {
+        "title": "Portfolio & Process",
+        "goal": "Build Portfolio & Design Sprint [cite: 69]",
+        "status": "pending",
+        "lessons": [
+            {
+                "day": "Mon",
+                "topic": "Portfolio Strategy",
+                "mission": "\ud83e\udd81 MISSION: Brand Yourself. Pick 3 adjectives that describe you (e.g. Minimalist, Bold, Friendly). Choose 1 font and 1 color that matches.",
+                "status": "pending"
+            },
+            {
+                "day": "Tue",
+                "topic": "Portfolio Build",
+                "mission": "\ud83e\uddf1 MISSION: The Skeleton. Sketch the layout of your portfolio Homepage on paper. Don't touch the computer until the sketch is done!",
+                "status": "pending"
+            },
+            {
+                "day": "Wed",
+                "topic": "Portfolio Polish",
+                "mission": "\u2728 MISSION: The Kerning Game. Go to type.method.ac and play the kerning game to train your eye for typography spacing.",
+                "status": "pending"
+            },
+            {
+                "day": "Thu",
+                "topic": "Design Thinking Sprint",
+                "mission": "\ud83e\udd14 MISSION: The Interview. Call a friend. Ask them about the last time they had a bad travel experience. Write down 3 pain points.",
+                "status": "pending"
+            },
+            {
+                "day": "Fri",
+                "topic": "Ideation & Prototype",
+                "mission": "Cc8\ufe0f\u20e3 MISSION: Crazy 8s. Fold a paper into 8 squares. Sketch 8 different solutions to your friend's travel problem in 8 minutes.",
+                "status": "pending"
+            },
+            {
+                "day": "Sat",
+                "topic": "Testing",
+                "mission": "\ud83e\uddea MISSION: Lab Coat. Show your sketches to a family member. Ask 'What do you think this button does?' Don't explain anything!",
+                "status": "pending"
+            },
+            {
+                "day": "Sun",
+                "topic": "Consolidation",
+                "mission": "\ud83d\udcc1 MISSION: Case Closed. Compile your interview notes, Crazy 8 sketches, and final idea into a simple Notion page or slide deck.",
+                "status": "pending"
+            }
+        ]
+    },
+    "Week 5": {
+        "title": "Depth & Motion",
+        "goal": "Advanced Systems & Animation",
+        "status": "pending",
+        "lessons": [
+            {
+                "day": "Mon",
+                "topic": "Advanced Systems",
+                "mission": "\ud83e\ude99 MISSION: Tokenize. Replace 5 hard-coded colors (e.g. #0000FF) in your design with variables (e.g. 'Color-Primary').",
+                "status": "pending"
+            },
+            {
+                "day": "Tue",
+                "topic": "Micro-Interactions",
+                "mission": "\ud83d\udcab MISSION: Alive! Create a button in Figma that changes size slightly when you hover and clicks down when pressed.",
+                "status": "pending"
+            },
+            {
+                "day": "Wed",
+                "topic": "Documentation",
+                "mission": "\ud83d\udcdc MISSION: The Manual. Write instructions for a developer explaining exactly how your 'Hover' animation from yesterday should work.",
+                "status": "pending"
+            },
+            {
+                "day": "Thu",
+                "topic": "Psychology Laws",
+                "mission": "\ud83e\udde0 MISSION: Brain Hack. Find a cluttered menu online. Apply Hick's Law by hiding half the options under a 'More' button.",
+                "status": "pending"
+            },
+            {
+                "day": "Fri",
+                "topic": "Motion Design",
+                "mission": "\ud83d\udc83 MISSION: The Choreographer. Animate a card sliding in from the bottom of the screen. Make it feel 'bouncy' and fun.",
+                "status": "pending"
+            },
+            {
+                "day": "Sat",
+                "topic": "Emotional Design",
+                "mission": "\ud83c\udf89 MISSION: Confetti. Design a 'Success' screen that rewards the user. Add a visual celebration element (confetti, high-five, checkmark).",
+                "status": "pending"
+            },
+            {
+                "day": "Sun",
+                "topic": "Consolidation",
+                "mission": "\ud83c\udfa5 MISSION: Movie Star. Record your screen showing off the interactions you built this week. Narrate why you chose those animations.",
+                "status": "pending"
+            }
+        ]
+    },
+    "Week 6": {
+        "title": "Brand & Advanced Verification",
+        "goal": "Brand Identity & Deep Audits",
+        "status": "pending",
+        "lessons": [
+            {
+                "day": "Mon",
+                "topic": "Brand Identity",
+                "mission": "\ud83c\udfa8 MISSION: Mood Board. Create a mood board for a fictional 'Meditation App'. It must feel 'Calm' but NOT use the color blue.",
+                "status": "pending"
+            },
+            {
+                "day": "Tue",
+                "topic": "System Integration",
+                "mission": "\ud83d\udd04 MISSION: The Rebrand. Take a wireframe. Apply your 'Meditation App' styles (fonts/colors) to it to see how the vibe changes.",
+                "status": "pending"
+            },
+            {
+                "day": "Wed",
+                "topic": "Copy Polish",
+                "mission": "\ud83d\udce2 MISSION: Call to Action. Rewrite the button 'Submit' to be more enticing. Try 5 variations (e.g. 'Start my Journey').",
+                "status": "pending"
+            },
+            {
+                "day": "Thu",
+                "topic": "Deep Audit",
+                "mission": "\ud83e\uddd0 MISSION: Roast Yourself. Open your own portfolio. Find 3 things that are confusing or broken. Be ruthless!",
+                "status": "pending"
+            },
+            {
+                "day": "Fri",
+                "topic": "Data-Driven Design",
+                "mission": "\ud83d\udd25 MISSION: Heat Seeker. Look at a heatmap example. Identify the 'cold' spot where nobody is clicking.",
+                "status": "pending"
+            },
+            {
+                "day": "Sat",
+                "topic": "Responsive Audit",
+                "mission": "\ud83d\udcf1 MISSION: Squish Test. Resize your portfolio browser window to mobile width. Does anything overlap or disappear? Fix it.",
+                "status": "pending"
+            },
+            {
+                "day": "Sun",
+                "topic": "Consolidation",
+                "mission": "\u270d\ufe0f MISSION: The Influencer. Draft a LinkedIn post sharing the top 3 mistakes you found in your own portfolio on Thursday.",
+                "status": "pending"
+            }
+        ]
+    },
+    "Week 7": {
+        "title": "Capstone & Launch",
+        "goal": "Final Project & Job Hunt",
+        "status": "pending",
+        "lessons": [
+            {
+                "day": "Mon",
+                "topic": "Accessibility Deep Dive",
+                "mission": "\u2328\ufe0f MISSION: No Mouse Monday. Unplug your mouse. Try to navigate your favorite online store using only 'Tab' and 'Enter'.",
+                "status": "pending"
+            },
+            {
+                "day": "Tue",
+                "topic": "Capstone Research",
+                "mission": "\ud83e\udded MISSION: The Final Boss. Define the problem for your Capstone project. Write it in one sentence. \"I am solving X for [User] because [Reason].\"",
+                "status": "pending"
+            },
+            {
+                "day": "Wed",
+                "topic": "Capstone High-Fi",
+                "mission": "\ud83d\uddbc\ufe0f MISSION: Pixel Perfect. Design the main 'Home' screen for your Capstone. It must score 100% on accessibility contrast.",
+                "status": "pending"
+            },
+            {
+                "day": "Thu",
+                "topic": "Capstone Prototype",
+                "mission": "\ud83d\udd17 MISSION: The Flow. Connect your screens so a user can complete one full task without getting stuck.",
+                "status": "pending"
+            },
+            {
+                "day": "Fri",
+                "topic": "Capstone Case Study",
+                "mission": "\ud83d\udcd6 MISSION: Documentation Day. Take screenshots of your messy \"Work in Progress\". Case studies love showing the messy middle!",
+                "status": "pending"
+            },
+            {
+                "day": "Sat",
+                "topic": "Final Polish",
+                "mission": "\ud83d\udc8e MISSION: Shine. Check every single padding pixel. Is it consistent? If you use 8px spacing, make sure it's 8px everywhere.",
+                "status": "pending"
+            },
+            {
+                "day": "Sun",
+                "topic": "The Launch",
+                "mission": "\ud83d\ude80 MISSION: BLAST OFF. Publish your portfolio. Send the link to 3 friends and ask them to break it. Then, apply for 1 job.",
+                "status": "pending"
+            }
+        ]
+    }
+}

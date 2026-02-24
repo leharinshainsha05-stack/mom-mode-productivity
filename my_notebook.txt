@@ -1,0 +1,5 @@
+[2026-01-27 21:33] | HIGH | DESIGN | soup brand desgining
+[2026-01-28 15:01] | LOW | FOOD | orange + coffe
+[2026-01-28 16:22] | HIGH | UI/UX | 7-week UI/UX plan
+[2026-02-06 22:13] | MEDIUM | TECH | making AI tool- which when u give some role u need to prepare it will crate the flow and remain u daily about the task- to clear glide app (made by L)+ Agentic Ai(LaLa) 
+[2026-02-06 22:14] | MEDIUM | GADGET | making glove for handicap - it give signal them when there are surrounded by things in particular range itself
